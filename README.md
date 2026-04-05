@@ -1,2 +1,2 @@
-# python_practice
+# practice
 Assignment files
